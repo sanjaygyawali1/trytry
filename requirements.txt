@@ -1,0 +1,13 @@
+asgiref==3.2.3
+Django==3.0.2
+django-filter==2.2.0
+djangorestframework==3.11.0
+Pillow==7.0.0
+progressbar2==3.43.1
+pygame==1.9.6
+python-utils==2.3.0
+pytz==2019.3
+six==1.12.0
+sqlparse==0.3.0
+virtualenv==16.7.6
+virtualenvwrapper-win==1.2.5
